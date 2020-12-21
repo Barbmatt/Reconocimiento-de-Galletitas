@@ -1,0 +1,8 @@
+Compilación:
+cmake .
+make 
+
+Ejecución:
+./Galletitas galletitas1.jpg 
+./Galletitas galletitas2.jpg 
+./Galletitas galletitas3.jpg 
